@@ -1,8 +1,7 @@
 Obsidian 好用，但是同步太烂了。第三方插件 obsidian-livesync 提供了 CouchDB 同步的功能，这肯定搞一下
 
 ___
-
-
+[https://www.joyk.com/dig/detail/1649775726883308]()
 ## 1、Obsidian
 
 一款 Markdown 编辑器，插件很多,笔记都存在本地，集成了相当多的插件，还有精美的主题，折腾一下可以打造成笔记流的生产利器。
@@ -29,7 +28,7 @@ ___
 
 3.1、Docker 版 CouchDB
 
-
+	
 ``` shell
 mkdir /opt/couchdb
 cd /opt/couchdb
