@@ -6,14 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: '小林的wilki',
   tagline: 'Dinosaurs are cool',
-  url: 'https://www.huangsongdi.top/docs',
-  baseUrl: '/',
+  url: 'https://hsllin.github.io',
+  baseUrl: '/lin/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
   organizationName: 'hsllin', // Usually your GitHub org/user name.
-  projectName: 'hsllin.github.io', // Usually your repo name.
- 
+  projectName: 'test', // Usually your repo name.
 
   presets: [
     [
