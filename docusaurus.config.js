@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: '小林的wilki',
   tagline: 'Dinosaurs are cool',
   url: 'https://hsllin.github.io',
-  baseUrl: '/lin/',
+  baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
